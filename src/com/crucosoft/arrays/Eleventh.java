@@ -12,10 +12,8 @@ public class Eleventh {
         for (int i = 0; i < length; i++) {
             array[i] = scanner.nextInt();
         }
-        System.out.println("the place");
 
         int place = scanner.nextInt();
-        System.out.println("the number");
         int newNumber = scanner.nextInt();
 
 
